@@ -1,0 +1,1 @@
+# STIG-ID-WN10-AU-000500---Set-Event-Log-Max-Size
